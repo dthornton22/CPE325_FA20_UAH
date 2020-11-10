@@ -1,5 +1,5 @@
 # CPE325_FA20_UAH
-Further demonstration code can be found [here](https://github.com/uah-lacasa/CPE325_MSP430f5529)
+Further demonstration code can be found [here](https://github.com/uah-lacasa/CPE325_MSP430f5529). This code is intended for educational purposes only.
 
 Using Code Composer Studio
 Search “5529” for find the board MSP430F5529
