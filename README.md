@@ -1,4 +1,6 @@
 # CPE325_FA20_UAH
+Further demonstration code can be found [here](https://github.com/uah-lacasa/CPE325_MSP430f5529)
+
 Using Code Composer Studio
 Search “5529” for find the board MSP430F5529
 
