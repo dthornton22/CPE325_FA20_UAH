@@ -1,5 +1,5 @@
 # CPE325_FA20_UAH
-Further demonstration code can be found [here](https://github.com/uah-lacasa/CPE325_MSP430f5529). This code is intended for educational purposes only. Misuse of the Software, as described in the [license](LICENSE), is subject to copyright law. Settings for the Code Composer IDE can be found [here](Course_Files/CCS_SETTINGS.md)
+This code is intended for educational or reference purposes only. Misuse of the contents of this repository, as described in the [license](LICENSE), is subject to copyright law. Settings for the Code Composer IDE can be found [here](Course_Files/CCS_SETTINGS.md).
 
 ## [Lab 00 UAH Demo Code](https://github.com/uah-lacasa/CPE325_MSP430f5529/tree/master/Lab00)
 - Lab 00 describes the installation procedure for [**Code Composer Studio**](https://www.ti.com/tool/CCSTUDIO) (CCS) on a Windows machine. CCS is the integrated  development environment (IDE) from Texas Instruments used in this course.
